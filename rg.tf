@@ -3,5 +3,5 @@ resource "azurerm_resource_group" "rg" {
     location = "eastus"
     depends_on = [ azurerm_virtual_network.vnet ]
     kjhkjghjhas
-  
+  jhbbjhgjsjh
 }
